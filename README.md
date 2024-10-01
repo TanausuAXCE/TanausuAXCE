@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Tanausú Lozano Cruz
 
-[![GitHub followers](https://img.shields.io/github/followers/tu-usuario?label=Seguidores&style=social)](https://github.com/TanausuAXCE)
+[![GitHub followers](https://img.shields.io/github/followers/TanausuAXCE?label=Seguidores&style=social)](https://github.com/TanausuAXCE)
 [![Email](https://img.shields.io/badge/Email-Contactarme-red)](mailto:tanausu.lozano.cruz05@gmail.com)
 
 ---
