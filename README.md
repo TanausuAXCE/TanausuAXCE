@@ -17,11 +17,11 @@
 
 ## 🔧 Tecnologías y herramientas
 
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![Cubic](https://img.shields.io/badge/Cubic-0078D6?style=flat-square&logo=cubic&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+[![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)](https://github.com/proxmox)
+[![Cubic](https://img.shields.io/badge/Cubic-0078D6?style=flat-square&logo=cubic&logoColor=white)](https://github.com/PJ-Singh-001/Cubic)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)](https://github.com/wolandark/BASH_Scripts_For_Everyone)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/docker)
+[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)](https://github.com/grafana)
 
 ---
 
