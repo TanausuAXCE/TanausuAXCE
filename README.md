@@ -1,7 +1,6 @@
 # ¡Hola! 👋 Soy [Tu Nombre]
 
-[![GitHub followers](https://img.shields.io/github/followers/tu-usuario?label=Seguidores&style=social)](https://github.com/tu-usuario)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sígueme-blue)](https://www.linkedin.com/in/tu-perfil/)
+[![GitHub followers](https://img.shields.io/github/followers/tu-usuario?label=Seguidores&style=social)](https://github.com/TanausuAXCE)
 [![Email](https://img.shields.io/badge/Email-Contactarme-red)](mailto:tu-email@example.com)
 
 ---
@@ -10,9 +9,8 @@
 
 💻 **Desarrollador apasionado** con experiencia en **[lenguajes/tecnologías que utilizas]**. Me encanta aprender cosas nuevas y colaborar en proyectos interesantes.
 
-- 🌱 Actualmente aprendiendo: **[Tecnología o herramienta que estás aprendiendo]**
-- 👯 Buscando colaborar en: **[Proyectos abiertos o ideas]**
-- 💬 Pregúntame sobre: **[Temas en los que tienes experiencia]**
+- 🌱 Actualmente aprendiendo: Prometheus, Consul, promox y algo de DOCKER sumado al 2º año de ASIR
+- 👯 Buscando colaborar en: Lo que sea
 - ⚡ Fun fact: **[Algo interesante sobre ti]**
 
 ---
@@ -29,14 +27,14 @@
 
 ## 📈 Estadísticas de GitHub
 
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TanausuAXCE&show_icons=true&theme=radical)
 
-[![Linguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TanausuAXCE&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ## 🌐 Encuéntrame en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanausú-lozano-cruz-6b7657305/)
 [![Twitter](
 
