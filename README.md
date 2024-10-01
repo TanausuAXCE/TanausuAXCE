@@ -7,7 +7,7 @@
 
 ## 🚀 Sobre mí
 
-💻 **Desarrollador apasionado** con experiencia en **[lenguajes/tecnologías que utilizas]**. Me encanta aprender cosas nuevas y colaborar en proyectos interesantes.
+💻 **Informático apasionado** con algo de experiencia en sistemas Linux y Windows como en herramientas para los mismos. Me encanta aprender cosas nuevas y colaborar en proyectos interesantes.
 
 - 🌱 Actualmente aprendiendo: Prometheus, Consul, promox y algo de DOCKER sumado al 2º año de ASIR
 - 👯 Buscando colaborar en: Proyectos ambiciosos que me nutran de conocimiento
