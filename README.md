@@ -1,7 +1,7 @@
-# ¡Hola! 👋 Soy [Tu Nombre]
+# ¡Hola! 👋 Soy Tanausú Lozano Cruz
 
 [![GitHub followers](https://img.shields.io/github/followers/tu-usuario?label=Seguidores&style=social)](https://github.com/TanausuAXCE)
-[![Email](https://img.shields.io/badge/Email-Contactarme-red)](mailto:tu-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contactarme-red)](mailto:tanausu.lozano.cruz05@gmail.com)
 
 ---
 
@@ -10,8 +10,8 @@
 💻 **Desarrollador apasionado** con experiencia en **[lenguajes/tecnologías que utilizas]**. Me encanta aprender cosas nuevas y colaborar en proyectos interesantes.
 
 - 🌱 Actualmente aprendiendo: Prometheus, Consul, promox y algo de DOCKER sumado al 2º año de ASIR
-- 👯 Buscando colaborar en: Lo que sea
-- ⚡ Fun fact: **[Algo interesante sobre ti]**
+- 👯 Buscando colaborar en: Proyectos ambiciosos que me nutran de conocimiento
+
 
 ---
 
@@ -36,5 +36,5 @@
 ## 🌐 Encuéntrame en:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanausú-lozano-cruz-6b7657305/)
-[![Twitter](
+
 
